@@ -1,4 +1,4 @@
-# Solardata Service API
+﻿# Solardata Service API
 
 This API will get data of a raspberry pi database wich is connected with a sunnyboy solar inverter. The database is created by [SBFspot with SQLite]("https://github.com/SBFspot/SBFspot/wiki/Installation-Linux-SQLite").
 
@@ -76,6 +76,6 @@ Flask-Cors
 sqlite3
 ```
 ## 3. Use API
-Send a POST request to the ip of the pi with ?query= + the querystring you want to acces.
+Send a POST request to the ip of the pi with ?query= + the querystring you want to access.
 #### example:
 * [Pi IpAdress]?query=SELECT * FROM SpotData
