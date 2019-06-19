@@ -1,10 +1,10 @@
 ﻿# Solardata Service API
 
-This API will get data of a raspberry pi database wich is connected with a sunnyboy solar inverter. The database is created by [SBFspot with SQLite]("https://github.com/SBFspot/SBFspot/wiki/Installation-Linux-SQLite").
+This API will get data of a raspberry pi database wich is connected with a sunnyboy solar inverter. The database is created by [SBFspot with SQLite](https://github.com/SBFspot/SBFspot/wiki/Installation-Linux-SQLite).
 
 ![GitHub Logo](/img/Solar_service.png)
 ## 1. Install SBFspot
-Follow this [tutorial]("https://github.com/SBFspot/SBFspot/wiki/Installation-Linux-SQLite")
+Follow this [tutorial](https://github.com/SBFspot/SBFspot/wiki/Installation-Linux-SQLite)
 
 ## 2. Make your app
 
